@@ -11,3 +11,14 @@ font-family: 'Poppins', sans-serif;;
 .point-text .fair {
     color: #848199;;
 }
+.event {
+    padding-right:30px ;
+}
+.fa-check {
+    color: rgb(109, 90, 219);
+
+}
+.col-lg-3 {
+   margin: 0 auto;
+   margin-left: 10px;
+}

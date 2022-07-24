@@ -6,7 +6,7 @@ font-family: 'Poppins', sans-serif;;
     height: 36rem;
 }
 .btn-icon {
-    background-color: rgb(54, 97, 216) ;
+    background-color:rgb(54, 97, 216) ;
 }
 .point-text .fair {
     color: #848199;;
@@ -15,10 +15,21 @@ font-family: 'Poppins', sans-serif;;
     padding-right:30px ;
 }
 .fa-check {
-    color: rgb(109, 90, 219);
+    color: #3F87F5;
 
 }
 .col-lg-3 {
    margin: 0 auto;
    margin-left: 10px;
+   
+}
+.Happy {
+    margin-bottom: 60px;
+    
+}
+.rate {
+    margin-top: 30px;
+}
+#card-3 {
+    background-color: #3F87F5;
 }

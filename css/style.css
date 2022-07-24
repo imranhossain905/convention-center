@@ -1,0 +1,13 @@
+* {
+font-family: 'Poppins', sans-serif;;
+}
+
+.carousel-item img  {
+    height: 36rem;
+}
+.btn-icon {
+    background-color: rgb(54, 97, 216) ;
+}
+.point-text .fair {
+    color: #848199;;
+}
